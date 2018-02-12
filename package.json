@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dew95531/react.git"
+    "url": "git+https://github.com/dew95531/express.git"
   },
   "keywords": [
     "dew"
@@ -21,7 +21,7 @@
   "author": "dew",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dew95531/react/issues"
+    "url": "https://github.com/dew95531/express/issues"
   },
-  "homepage": "https://github.com/dew95531/react#readme"
+  "homepage": "https://github.com/dew95531/express#readme"
 }
