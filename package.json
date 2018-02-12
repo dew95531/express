@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "des",
+  "main": "inde.js",
+  "dependencies": {
+    "test": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dew95531/react.git"
+  },
+  "keywords": [
+    "dew"
+  ],
+  "author": "dew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dew95531/react/issues"
+  },
+  "homepage": "https://github.com/dew95531/react#readme"
+}
